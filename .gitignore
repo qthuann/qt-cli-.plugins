@@ -1,0 +1,2 @@
+# Ignore only the main executable in this folder
+*.exe
