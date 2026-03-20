@@ -1,2 +1,2 @@
 terminal_pl.qt
-python_plugin.qt
+qasa.qt
