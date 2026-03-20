@@ -1,0 +1,6 @@
+[plugin]
+name = "qasa"
+version = "1.0.0"
+author = "qt.cli"
+api_version = "1.0.0"
+permissions = ["host_exec"]

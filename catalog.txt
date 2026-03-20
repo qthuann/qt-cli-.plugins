@@ -1,1 +1,2 @@
-terminal_pl.wasm
+terminal_pl.qt
+python_plugin.qt
