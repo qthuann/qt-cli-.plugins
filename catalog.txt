@@ -1,2 +1,2 @@
-terminal_pl.qt
-qasa.qt
+terminal_pl
+qasa
