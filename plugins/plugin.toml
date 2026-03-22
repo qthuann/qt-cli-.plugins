@@ -1,6 +1,0 @@
-[plugin]
-name = "terminal_pl"
-version = "1.0.0"
-author = "qt.cli"
-api_version = "1.0.0"
-permissions = ["host_exec"]
