@@ -1,0 +1,7 @@
+[plugin]
+name = "api"
+version = "1.0.0"
+author = "Antigravity"
+api_version = "1.0.0"
+permissions = ["net", "storage"]
+sha256 = "40b07a5f2afe6a9f4dd9f04c24a74add69d034b1626f8b6c65a9e54b0e1787c4"
