@@ -4,4 +4,4 @@ version = "1.0.0"
 author = "Antigravity"
 api_version = "1.0.0"
 permissions = ["net", "storage"]
-sha256 = "366a23204da0158ffad5e7010734867c36ba0e90afb17242c5e35f9afe281529"
+sha256 = "b5d434ca29ce75ad297986ff140571fc8b1dbf7217b99b9c0406ec47dbb691bd"
