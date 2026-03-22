@@ -1,0 +1,7 @@
+[plugin]
+name = "qasa"
+version = "1.0.0"
+author = "Antigravity"
+api_version = "1.0.0"
+permissions = ["net", "storage"]
+sha256 = "ab7de1dce697ba74c60cda5319ac19eda96f2234f52fd89e57bd4b5d247b1279"
